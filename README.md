@@ -37,8 +37,6 @@ Features V1–V28 are PCA components (anonymized for privacy); `Time` and
    single-transaction scoring with a live SHAP explanation.
 
 ## Results
-*(fill in your actual numbers after running `eda_and_modeling.py`)*
-
 Model	ROC-AUC	PR-AUC	Recall @ chosen threshold
 Logistic Regression	0.9698	0.7249	91.84%
 XGBoost	0.9797	0.8634	85.71% (threshold = 0.327)
