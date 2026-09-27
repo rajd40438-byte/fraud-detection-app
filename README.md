@@ -57,4 +57,4 @@ streamlit run app.py
 ```
 
 ## Live demo
-*(add your deployed Streamlit Community Cloud / Hugging Face Spaces link here)*
+https://fraud-detection-app-sj5qeqsmdsxntcxutlsjmg.streamlit.app/
